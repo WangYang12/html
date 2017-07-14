@@ -1,4 +1,4 @@
-# HTML
+﻿# HTML
 
 [![Build Status](https://travis-ci.org/w3c/html.svg?branch=master)](https://travis-ci.org/w3c/html)
 
@@ -15,4 +15,3 @@ If you have questions you can [file an issue](https://github.com/w3c/html/issues
 ## Old HTML repository
 
 The [old HTML repo](https://github.com/w3c/html-old) is available for archival purposes.
-wangyang 哇塞，好厉害！
